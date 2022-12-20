@@ -1,5 +1,8 @@
 #!/usr/bin/python3
- def __init__(self, size):
+class Square:
+    """Represent a square."""
+
+    def __init__(self, size):
         """Initialize a new Square.
 
         Args:
